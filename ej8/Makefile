@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -pedantic
-TARGET = mensaje_secreto
+TARGET = i++_vs_++i
 
 all: $(TARGET)
 
