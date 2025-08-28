@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -pedantic
-TARGET = i++_vs_++i
+TARGET = bits_especificos_iguales
 
 all: $(TARGET)
 
