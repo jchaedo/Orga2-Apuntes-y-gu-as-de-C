@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include "file1.h"
 
-extern int count;
+extern int count; // puedo hacer extern cuantas veces quiera, pero en algún momento debe ser definido o no va a compilar
 
 void print_count();
 

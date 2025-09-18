@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include "file1.h"
 
+int count;
+
 void increment_count() {
     count++;
 }
